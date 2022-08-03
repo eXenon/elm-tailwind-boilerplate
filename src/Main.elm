@@ -4,7 +4,6 @@ import Browser
 import Browser.Navigation
 import Html exposing (div, text)
 import Html.Attributes exposing (class)
-import Time
 import Url
 
 

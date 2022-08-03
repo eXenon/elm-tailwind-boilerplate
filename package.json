@@ -7,7 +7,7 @@
     "tailwindcss": "^3.1.7"
   },
   "scripts": {
-    "init": "elm init",
+    "init": "elm init && elm install elm/url",
     "dev": "parcel src/index.html"
   }
 }
